@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+.npm/
+
+# Build outputs
+dist/
+build/
+.next/
+.turbo/
+out/
+
+# Development
+.DS_Store
+*.log
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Cache
+.cache/
+.parcel-cache/
+.vercel/
